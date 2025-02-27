@@ -169,13 +169,12 @@ ROBO-ONEウェブサイトの各カテゴリー内に「トーナメント」、
 
 ※試合結果を反映するためには画面の更新が必要です。
 
-#### ROBO-ONE Light
+#### ROBO-ONE  Light
+　ウェブサイト	https://www.robo-one.com/lights/index/80	 
+
 予選バトル	予選バトルトーナメント表は、認定大会(3/1)の為、3月3日までに公開予定です。	
 
 決勝トーナメントは、予選終了後にROBO-ONEウェブサイトにて公開します。
-
-#### ROBO-ONE
-　ウェブサイト	https://www.robo-one.com/lights/index/80	 
 
 #### 控室で放送される中継でも進行を確認することができます。
  TwitchのROBO-ONEチャンネルはこちらです。
