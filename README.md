@@ -181,7 +181,7 @@ ROBO-ONEウェブサイトの各カテゴリー内に「トーナメント」、
  
    https://www.twitch.tv/robo_one
 
-####「ROBO-ONE公式」Twitterで試合結果をつぶやきます。
+#### 「ROBO-ONE公式」Twitterで試合結果をつぶやきます。
    https://twitter.com/robooneofficial
 
 ※ネット環境、機材の状態などにより、結果の更新や配信が遅れることがありますので、余裕をもって会場に移動してください。
