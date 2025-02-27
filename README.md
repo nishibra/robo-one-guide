@@ -1,4 +1,4 @@
-#### robo-one-guide(2025.02.24作成)（2.25修正）
+#### robo-one-guide(2025.02.24作成)（2.25修正）  ![bra](pics/bra.png)
 
 # 第27回ROBO-ONE Light 参加者ガイド
 
