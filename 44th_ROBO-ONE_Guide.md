@@ -1,4 +1,4 @@
-#### robo-one-guide(2025.09.10作成)  ![bra](pics/bra.png)
+#### robo-one-guide(2025.09.11作成)  ![bra](pics/bra.png)
 
 # 第44回ROBO-ONE 参加者ガイド
 
